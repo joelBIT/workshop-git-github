@@ -16,3 +16,4 @@ git pull origin main
 git status
 git add .
 git commit -m "Created styles.css, notes.txt, .gitignore and .env files"
+git push
