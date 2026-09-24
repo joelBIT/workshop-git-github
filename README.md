@@ -1,1 +1,1 @@
-# workshop-git-github
+# 🛠️ Workshop: Practicing Git & GitHub
