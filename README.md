@@ -55,7 +55,7 @@
   * Shows the working tree status (i.e., which files that are untracked, tracked, modified).
 * _git add ._
   * Adds the unstaged changes of the README.md file (I added a comment to the file) to the staging area.
-* _git commit -m_ "Added comment o README.md"
+* _git commit -m_ "Added comment to README.md"
   * The git commit command captures a snapshot of the project's currently staged changes (README.md).
 * _git push origin main_
   * Pushed the commit to the main branch in the repository located at the URL mapped by "origin", which is https://github.com/joelBIT/Hello-World.git now since I updated "origin" recently.
