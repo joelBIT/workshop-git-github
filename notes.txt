@@ -1,0 +1,18 @@
+echo "# workshop-git-github" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/joelBIT/workshop-git-github.git
+git push -u origin main
+
+[updated readme]
+
+git status
+git pull origin main
+
+[created styles.css, notes.txt, .gitignore and .env files]
+
+git status
+git add .
+git commit -m "Created styles.css, notes.txt, .gitignore and .env files"
